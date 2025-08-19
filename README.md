@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project RhythmX
 
 Develop an elegant React.js Music Application. 
 
